@@ -1,6 +1,6 @@
 # **The Truth Is Out There!**
 
-![ufo](images/ufo.png)
+![ufo](static/images/ufo.png)
 
 ## Analysis
 
