@@ -13,7 +13,7 @@ Now that additional filtering has been added to the Filter Search section, searc
 ### City Search
 In this example we enter Phoenix in the Enter a City field this brings up any and all reported sightings in Fresno for the set date of 01/10/2010. The table is autopopulated with sightings in Fresno, CA even though the search field for state are set to TX. 
 
-![citysearch](images/citysearch.png)
+![citysearch](static/images/citysearch.png)
 
 
 
@@ -21,7 +21,7 @@ In this example we enter Phoenix in the Enter a City field this brings up any an
 When a search is done by state only, for example, Oregon. The table is populated by sightings reported in the state of Oregon, this is for a more broad search as it brings up sightings for all cities in Oregon. 
 
 
-![statesearch](images/statesearch.png)
+![statesearch](static/images/statesearch.png)
 
 
 
@@ -29,7 +29,7 @@ When a search is done by state only, for example, Oregon. The table is populated
 
 A search by country can also be done, without setting a specific city or state. For example, we can see in the image below, a search of UFO sightings in the US, brings up multiple cities and state sightings. 
 
-![countrysearch](images/countrysearch.png)
+![countrysearch](static/images/countrysearch.png)
 
 
 
